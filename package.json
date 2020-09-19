@@ -1,0 +1,19 @@
+{
+  "name": "Conexion-ssh-sin-llave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "NodeSSH": "^0.5.0",
+    "node-ssh": "^11.0.0",
+    "readline": "^1.3.0",
+    "ssh2": "^0.8.9"
+  }
+}
